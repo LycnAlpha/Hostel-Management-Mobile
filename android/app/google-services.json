@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "60819421847",
+    "project_id": "hostel-management-app-fb90c",
+    "storage_bucket": "hostel-management-app-fb90c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60819421847:android:3b323d65524bfc94dd87d2",
+        "android_client_info": {
+          "package_name": "com.example.hostel_management_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb52vwKa23qv58q6bkIY7E_kLa5pk8DWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
